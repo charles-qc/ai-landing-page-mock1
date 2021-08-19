@@ -3863,10 +3863,10 @@ input[type="range"]::-moz-range-thumb::before {
     }
     #hero-cta-btn {
         width: 50%;
-    }
+    }/*
     .hero-section {
         height: 90vh !important;
-    }
+    }*/
     /* Benefits Section */
     .benefit-title>h2 {
         width: 65%;
