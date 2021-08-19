@@ -4935,6 +4935,13 @@ input[type="range"]::-moz-range-thumb::before {
 }
 
 /* Responsive CSS Media Queries */
+
+@media only screen and (max-width: 2500px) and (max-height: 600){
+    .benefits-section-wrapper{
+        height: 90vh;
+    }
+}
+
 @media only screen and (max-width: 1280px){
     .benefits-section-wrapper{
         height: 150vh;
